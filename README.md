@@ -28,6 +28,6 @@ The system tracks and analyzes boxers' movements using computer vision, providin
 
 ## Team Members
 - Sultana Zagzoog
-- Shaima Al-Zahrani
+- Shaymaa Al-Zahrani
 - Yousef Batawq
 - Abdulrahman Qutah
