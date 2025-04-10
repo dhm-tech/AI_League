@@ -27,7 +27,7 @@ The system tracks and analyzes boxers' movements using computer vision, providin
 - The AI_VideoTest file requires a clip showing the player's performance so the model can analyze it. It can be added under the comment within the file (put the video path here).
 
 ## Team Members
-- Sultana Al-Zaqzouq
+- Sultana Zagzoog
 - Shaima Al-Zahrani
-- Youssef Batouq
+- Yousef Batouq
 - Abdulrahman Qutah
